@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 [Divvy: Customer Usage Analysis](/sample_page)
-<img src="C:\Users\Carlos\OneDrive\Documents\2 - Media/Frame2.jpg?raw=true"/>
+<img src="images/Divvy.jpg?raw=true"/>
 
 ---
 
