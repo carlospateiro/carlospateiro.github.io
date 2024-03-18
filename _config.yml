@@ -1,11 +1,10 @@
 title: Carlos Pateiro # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Analytics enthusiast, proficient in SQL, Python, and data visualization tools. I'm on the lookout for new opportunities to bring value to your business. 
-  <br><br> 
+  Data Analytics enthusiast, proficient in SQL, Python, and data visualization tools. I'm on the lookout for new opportunities to bring value to your business.  
   <br><br>
   <a href="https://www.linkedin.com/in/carlospateiro/">View My LinkedIn Profile</a> 
-show_downloads: true  
+#show_downloads: true  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
