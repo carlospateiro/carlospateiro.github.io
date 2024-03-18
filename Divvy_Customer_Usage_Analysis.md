@@ -2,7 +2,7 @@
 
 **Project description:** This project dives into the data to understand how Casual and Member customers utilize Divvy bike-sharing services in Chicago, shedding light on key usage patterns and behaviors to inform strategic decisions and service improvements.
 
-Historical trip data is publicly available on  [divvybikes.com]([https://divvybikes.com/system-data/]).
+Historical trip data is publicly available on [divvybikes.com](https://divvybikes.com/system-data/).
 
 This report will follow the structure proposed in the **Google Data Analytics Certificate:**
 
