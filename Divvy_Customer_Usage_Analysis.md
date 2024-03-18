@@ -2,6 +2,8 @@
 
 **Project description:** This project dives into the data to understand how Casual and Member customers utilize Divvy bike-sharing services in Chicago, shedding light on key usage patterns and behaviors to inform strategic decisions and service improvements.
 
+Historical trip data is publicly available on  [divvybikes.com]([https://divvybikes.com/system-data/]).
+
 This report will follow the structure proposed in the **Google Data Analytics Certificate:**
 
 * **Ask:** Business Challenge/Objective/Question
@@ -50,7 +52,7 @@ As we can see from the above information, there are negative values. Having into
 * Perform data cleaning to ensure the analysis is based on accurate and consistent data.
 * Lastly, it would be advisable to reach out to stakeholder and ask for clarification in order to avoid any misinterpretation.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Step 6. Checking how many rides there are with negative value
 ### Step 7. Removing rows where the column ride_duration has negative value.
