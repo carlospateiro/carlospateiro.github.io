@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-[Divvy: Customer Usage Analysis](/sample_page.md)
+[Divvy: Customer Usage Analysis](/Divvy_Customer_Usage_Analysis.md)
 <img src="images/divvy.png?raw=true"/>
 
 ---
